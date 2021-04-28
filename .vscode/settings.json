@@ -1,5 +1,6 @@
 {
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.formatOnSave": true,
-    "prettier.useTabs": true
+    "editor.defaultFormatter": "sissel.shopify-liquid",
+    "prettier.useTabs": true,
+    "editor.parameterHints.enabled": false,
+    "editor.formatOnSave": true
 }
